@@ -1,0 +1,24 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'This Is My New Hugo Site'
+sectionPagesMenu = "main"
+
+[security]
+
+[security.exec]
+allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$']
+
+[markup]
+
+[markup.highlight]
+style = 'emacs'
+
+[markup.asciidocExt.attributes]
+toc = 'auto'            # Enable Asciidoctor TOC for Hugo
+sectlinks = true        # Enable section title link
+
+[module]
+
+[[module.imports]]
+path = 'github.com/shichaoxia/hugo-theme-take-notes'
+#path = 'hugo-theme-take-notes'

@@ -1,0 +1,96 @@
++++
+title = 'Magna Sit Id Labor Id Underused'
+weight = 10
+layout = 'chapter'
++++
+== sdf
+
+He picked up the burnt end of the branch and made a mark on the stone.
+Day 52 if the marks on the stone were accurate.
+He couldn't be sure.
+Day and nights had begun to blend together creating confusion, but he knew it was a long time.
+Much too long.
+
+== Est Eu Enum
+
+++++
+\[
+
+\log_3 12y
+
+\]
+++++
+
+
+
+April seriously wondered about +\(\sim ABC+1\)+ her sleeping partner choices.
+She looked at her bed and what a mess it had become.
+How did she get to the point in her life where she had two dogs, three cats, and a raccoon sleeping with her every night?
+
+++++
+{{< highlight java "linenos=table,hl_lines=8 15-17,linenostart=199" >}}
+import java.util.Scanner;
+
+public class HelloWorld {
+
+    public static void main(String[] args) {
+
+        // Creates a reader instance which takes
+        // input from standard input - keyboard
+        Scanner reader = new Scanner(System.in);
+        System.out.print("Enter a number: ");
+
+        // nextInt() reads the next integer from the keyboard
+        int number = reader.nextInt();
+
+        // println() prints the following line to the output screen
+        System.out.println("You entered: " + number);
+    }
+}
+{{< / highlight >}}
+++++
+
+++++
+{{< highlight c >}}
+#include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
+{{< / highlight >}}
+++++
+
+== Anim Temper
+
+There was a reason for her shyness.
+Everyone assumed it had always been there, but she knew better.
+She knew the exact moment that the shyness began.
+It had been that fateful moment at the lake.
+There are just some events that do that to you.
+
+=== Cilium Sit Null In Saint Ali-quip President
+
+According to the caption on the bronze marker placed by the Multnomah Chapter of the Daughters of the American Revolution on May 12, 1939, “College Hall (is) the oldest building in continuous use for Educational purposes west of the Rocky Mountains.
+Here were educated men and women who have won recognition throughout the world in all the learned professions.”
+
+=== Veldt Ad Incident Parturition
+
+He had disappointed himself more than anyone else.
+That wasn't to say that he hadn't disappointed others.
+The fact was that he had disappointed a lot of people who were close to him.
+The fact that they were disappointed in him was something that made him even more disappointed in himself.
+Yet here he was, about to do the exact same things that had caused all the disappointment in the first place because he didn't know what else to do.
+
+== Excitation Minim Consequent
+
+I'm going to hire professional help tomorrow.
+I can't handle this anymore.
+She fell over the coffee table and now there is blood in her catheter.
+This is much more than I ever signed up to do.
+
+=== Saint Saint Commode Dolores
+
+They say you only come to peace with yourself when you know yourself better than those around you.
+Derick knew nothing about this.
+He thought he had found peace but this was an illusion as he was about to find out with an unexpected occurrence that he actually knew nothing about himself.

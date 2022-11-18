@@ -1,4 +1,4 @@
-baseURL = 'https://shichaoxia.github.io/hugo-theme-take-notes-example-site/'
+baseURL = 'https://hugo-theme-take-notes-example.pages.dev/'
 languageCode = 'en-us'
 title = 'Hugo theme take notes example'
 sectionPagesMenu = "main"

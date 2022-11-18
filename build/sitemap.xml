@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/notes/solve-the-problem/chapter01/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/notes/figment-of/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/notes/figment-of/chapter01/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/notes/solve-the-problem/chapter02/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/notes/figment-of/chapter02/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/notes/solve-the-problem/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/</loc>
+    <lastmod>2022-11-17T15:40:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/posts/</loc>
+    <lastmod>2022-11-17T15:40:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/posts/veniam-wax/</loc>
+    <lastmod>2022-11-17T15:40:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/posts/ad-cillum-sunt-officia/</loc>
+    <lastmod>2020-07-25T09:26:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/notes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugo-theme-take-notes-example-site/tags/</loc>
+  </url>
+</urlset>

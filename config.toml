@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://shichaoxia.github.io/hugo-theme-take-notes-example-site/'
 languageCode = 'en-us'
-title = 'This Is My New Hugo Site'
+title = 'Hugo theme take notes example'
 sectionPagesMenu = "main"
 
 [security]
@@ -20,5 +20,4 @@ sectlinks = true        # Enable section title link
 [module]
 
 [[module.imports]]
-path = 'github.com/shichaoxia/hugo-theme-take-notes'
-#path = 'hugo-theme-take-notes'
+path = 'hugo-theme-take-notes'

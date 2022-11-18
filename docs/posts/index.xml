@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo theme take notes example</title>
+    <link>http://localhost:1313/hugo-theme-take-notes-example-site/posts/</link>
+    <description>Recent content in Posts on Hugo theme take notes example</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Nov 2022 15:40:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/hugo-theme-take-notes-example-site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Way To Build This Site</title>
+      <link>http://localhost:1313/hugo-theme-take-notes-example-site/posts/veniam-wax/</link>
+      <pubDate>Thu, 17 Nov 2022 15:40:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/hugo-theme-take-notes-example-site/posts/veniam-wax/</guid>
+      <description>Way To Build This Site Use Tailwind CSS with Hugo It is a good choice to build a modern website using the relatively few methods and attributes offered by Tailwind CSS.
+Install Tailwind CSS inside theme directory Tailwind CSS can be installed inside the theme directory by following the tutorial.
+In step 3, src/input.css should be assets/main.css.
+Then generate the css file with the following command.
+npx tailwindcss -i ./assets/main.css -o .</description>
+    </item>
+    
+    <item>
+      <title>Ad Cilium Sunt Official</title>
+      <link>http://localhost:1313/hugo-theme-take-notes-example-site/posts/ad-cillum-sunt-officia/</link>
+      <pubDate>Mon, 20 Jul 2020 10:26:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo-theme-take-notes-example-site/posts/ad-cillum-sunt-officia/</guid>
+      <description>Magna Ipsum Qui Minim Labors Alika Eating raw fish didn&amp;rsquo;t sound like a good idea. &amp;ldquo;It&amp;rsquo;s a delicacy in Japan,&amp;rdquo; didn&amp;rsquo;t seem to make it any more appetizing. Raw fish is raw fish, delicacy or not.
+Eu Venia m Ease Consequent It&amp;rsquo;s always good to bring a slower friend with you on a hike. If you happen to come across bears, the whole group doesn&amp;rsquo;t have to worry. Only the slowest in the group do.</description>
+    </item>
+    
+  </channel>
+</rss>

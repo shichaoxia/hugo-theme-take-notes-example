@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head><script src="/hugo-theme-take-notes-example-site/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hugo-theme-take-notes-example-site/livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+    
+    <link rel="stylesheet" href="/hugo-theme-take-notes-example-site/style.css">
+
+    
+    <script src="https://kit.fontawesome.com/c402a41158.js" crossorigin="anonymous"></script>
+
+    
+
+
+
+    
+    
+    
+    
+    
+
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.3/dist/katex.min.css"
+          integrity="sha384-Juol1FqnotbkyZUT5Z7gUPjQ9gzlwCENvUZTpQBAPxtusdwFLRy382PSDx5UUJ4/" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.3/dist/katex.min.js"
+            integrity="sha384-97gW6UIJxnlKemYavrqDHSX3SiygeOwIZhwyOKRfSaf0JWKRVj9hLASHgFTzT+0O"
+            crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.3/dist/contrib/auto-render.min.js"
+            integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"
+            onload="renderMathInElement(document.body);"></script>
+
+    <title>Hugo theme take notes example</title>
+</head>
+
+<body>
+<nav class="bg-gray-900">
+    <div class="mx-auto max-w-5xl p-4 text-gray-50
+    flex flex-wrap items-center justify-between ">
+        <div class="flex items-center gap-2">
+            <h1>
+                <a href="http://localhost:1313/hugo-theme-take-notes-example-site/">
+                    <i class="fa-solid fa-heart"></i>
+                    <i class="fa-solid fa-skull"></i>
+                    <i class="fa-solid fa-code"></i>
+                </a>
+            </h1>
+            
+    
+    
+    
+
+    
+
+
+    
+        <span> ▸ </span><a href="http://localhost:1313/hugo-theme-take-notes-example-site/notes/" class="hover:underline">Notes</a>
+    
+
+
+    
+        <span> ▸ </span><a href="http://localhost:1313/hugo-theme-take-notes-example-site/notes/solve-the-problem/" class="hover:underline">Null Labor Minim Underused</a>
+    
+
+
+
+    <span> ▸ </span><span>Dis Eu Official Venia m Sunt Et Dolores Consequent</span>
+
+
+        </div>
+        <div class="flex gap-6">
+            
+            <div>
+                <p>
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </p>
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+<main class="grid grid-cols-1 md:grid-cols-5">
+    <aside class="h-fit py-2 md:h-screen md:sticky md:top-0 md:overflow-y-scroll md:overscroll-y-contain">
+        <div class="flex flex-col mx-4">
+            <p class="text-sm">CHAPTER</p>
+            
+            
+            
+            <a href="http://localhost:1313/hugo-theme-take-notes-example-site/notes/solve-the-problem/chapter01/"
+               class="text-sm pl-2 border-l-2 text-gray-500 border-gray-100 hover:border-gray-900 hover:text-gray-900">Fugit Saint Dolor Amet Radicalising</a>
+            
+            
+            
+            <a href="http://localhost:1313/hugo-theme-take-notes-example-site/notes/solve-the-problem/chapter02/"
+               class="text-sm pl-2 border-l-2 text-sky-700 border-sky-700 font-medium">Dis Eu Official Venia m Sunt Et Dolores Consequent</a>
+            
+            
+        </div>
+    </aside>
+    <article id="content" class="p-4 grid-start-2 col-span-3 prose prose-pre:text-current">
+        <p>= Est Parturition Inure Ipsum Fugit Sit Lambrusco Voluptuary</p>
+<p>The trees, therefore, must be such old and primitive techniques that they thought nothing of them, deeming them so inconsequential that even savages like us would know of them and not be suspicious. At that, they probably didn&rsquo;t have too much time after they detected us orbiting and intending to land. And if that were true, there could be only one place where their civilization was hidden.</p>
+
+        
+    </article>
+    <aside class="h-fit py-2 md:h-screen md:sticky md:top-0 md:overflow-y-scroll md:overscroll-y-contain">
+        <p class="text-sm">ON THIS PAGE</p>
+        <nav id="TableOfContents"></nav>
+    </aside>
+</main>
+<script defer>
+    window.addEventListener('DOMContentLoaded', () => {
+
+        const observer = new IntersectionObserver(entries => {
+            entries.forEach(entry => {
+                const id = entry.target.getAttribute('id');
+                if (entry.intersectionRatio > 0) {
+                    document.querySelector(`nav li a[href="#${id}"]`).parentElement.classList.add('active');
+                } else {
+                    document.querySelector(`nav li a[href="#${id}"]`).parentElement.classList.remove('active');
+                }
+            });
+        });
+
+        document.querySelectorAll('h2[id]').forEach((heading) => {
+            observer.observe(heading);
+        });
+
+        document.querySelectorAll('h3[id]').forEach((heading) => {
+            observer.observe(heading);
+        });
+    });
+</script>
+
+
+</body>
+
+</html>

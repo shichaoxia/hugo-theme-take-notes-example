@@ -1,9 +1,30 @@
 +++
-title = 'Magna Sit Id Labor Id Underused'
+title = 'Magna Sit Labor I Underused'
 weight = 10
 layout = 'chapter'
 +++
-== sdf
+
+== Est Non Qui Dis Ut Sunt
+
+[.autowidth]
+|===
+| A | B | C
+
+| Consequent | Cilium Ipsum
+| Ad Ut Dolor |Incident
+| Do Alika |Underused Saint Ali-quip
+|===
+
+[plantuml, target=images/ch7-1b, format=svg]
+....
+@startuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: Another authentication Response
+@enduml
+....
 
 He picked up the burnt end of the branch and made a mark on the stone.
 Day 52 if the marks on the stone were accurate.
@@ -20,8 +41,6 @@ Much too long.
 
 \]
 ++++
-
-
 
 April seriously wondered about +\(\sim ABC+1\)+ her sleeping partner choices.
 She looked at her bed and what a mess it had become.

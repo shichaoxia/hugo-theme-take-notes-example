@@ -4,20 +4,20 @@ title = 'Hugo theme take notes example'
 sectionPagesMenu = "main"
 
 [security]
-
 [security.exec]
 allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$']
 
 [markup]
-
 [markup.highlight]
 style = 'emacs'
-
+[markup.asciidocExt]
+extensions = ['asciidoctor-diagram']
+workingFolderCurrent = true
 [markup.asciidocExt.attributes]
-toc = 'auto'            # Enable Asciidoctor TOC for Hugo
+toc = 'auto'            # Enable AsciiDoctor TOC for Hugo
 sectlinks = true        # Enable section title link
 
 [module]
-
+#replacements = 'github.com/bep/my-theme -> ../../hugo-theme-take-notes'
 [[module.imports]]
-path = 'hugo-theme-take-notes'
+path = 'github.com/shichaoxia/hugo-theme-take-notes'
